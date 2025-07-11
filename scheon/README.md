@@ -6,10 +6,14 @@
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-        - **git clone** <img src="./git_clone.png">
-        - **git status** <img src="./git_status.png">
-        - **git add, commit, push** <img src="git_add_commit_push.png">
-        - **README.md 업데이트 확인** <img src="./git_clone.png">
+        - **git clone**<br>
+        <img src="./git_clone.png">
+        - **git status**<br>
+        <img src="./git_status.png">
+        - **git add, commit, push**<br>  
+        <img src="git_add_commit_push.png">
+        - **README.md 업데이트 확인**<br>  
+        <img src="./git_clone.png">
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
